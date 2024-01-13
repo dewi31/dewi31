@@ -9,8 +9,9 @@
 
 ## Education:
 
-#### [Universitas Airlangga](https://unair.ac.id/) | Bachelor of Physics | Surabaya `2019-2023`
-   - Join a computing interest group
+#### [Universitas Airlangga](https://unair.ac.id/) | Bachelor of Science | Surabaya `2019-2023`
+   - Majoring in physics
+   - Taking a specialization in computational physics
    - Got a GPA of 3.28 out of 4.00
    - Conduct research on the classification of plasmodium parasites
 
